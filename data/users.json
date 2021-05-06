@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6090700efc13ae6ace000064",
+    "first_name": "Gay",
+    "last_name": "Rymour",
+    "email": "grymour0@state.tx.us",
+    "deleted": false,
+    "created": "2020-12-25T11:23:13.000Z"
+  },
+  {
+    "id": "6090700efc13ae6ace000065",
+    "first_name": "Haily",
+    "last_name": "Checketts",
+    "email": "hchecketts1@springer.com",
+    "deleted": null,
+    "created": "2021-01-01T12:28:52.000Z"
+  },
+  {
+    "id": "6090700efc13ae6ace000066",
+    "first_name": "Elnar",
+    "last_name": "Jenicek",
+    "email": "ejenicek2@unc.edu",
+    "deleted": false,
+    "created": "2021-02-24T11:08:55.000Z"
+  },
+  {
+    "id": "6090700efc13ae6ace000067",
+    "first_name": "Sydney",
+    "last_name": "Petrillo",
+    "email": "spetrillo3@irs.gov",
+    "deleted": true,
+    "created": "2020-07-13T05:55:25.000Z"
+  },
+  {
+    "id": "6090700efc13ae6ace000068",
+    "first_name": "Ulrich",
+    "last_name": "Botham",
+    "email": "ubotham4@hibu.com",
+    "deleted": null,
+    "created": "2021-04-01T19:28:20.000Z"
+  }
+]
